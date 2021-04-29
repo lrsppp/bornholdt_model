@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+plots/*.jpeg
+!plots/schematic.jpeg
+plots/*.pdf
+tables/*.csv
